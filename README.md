@@ -18,6 +18,8 @@ Case B. If user opens (https://xxxxxxxxx.cloudfront.net/devops-folder/) it shoul
 
 ## Soultion 1:
 *Case A*. https://dq4ek4i824wn5.cloudfront.net
+
+
 *Case B*. https://dq4ek4i824wn5.cloudfront.net/devops-folder/
 
 ***
