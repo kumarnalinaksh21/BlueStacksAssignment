@@ -65,4 +65,7 @@ Logfile: [Click here](https://github.com/bluestacks/dev-ops-challenge/blob/maste
 I used Python for this.
 The python script and executable files are both shared in the repository.
 Here is the snippet of the execution.
+
+
 ![image](https://user-images.githubusercontent.com/32825207/129964192-485d75a2-1e06-4326-a17c-4f74a890648d.png)
+***
