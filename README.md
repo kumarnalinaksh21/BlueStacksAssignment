@@ -19,8 +19,17 @@ Case B. If user opens (https://xxxxxxxxx.cloudfront.net/devops-folder/) it shoul
 ## Soultion 1:
 *Case A*. https://dq4ek4i824wn5.cloudfront.net
 
+![image](https://user-images.githubusercontent.com/32825207/129965173-12f78d0c-039d-41b5-af11-a6e729aa1c32.png)
+
+
+
 
 *Case B*. https://dq4ek4i824wn5.cloudfront.net/devops-folder/
+
+![image](https://user-images.githubusercontent.com/32825207/129965232-8506378e-d2f8-448b-9859-c9579b60021b.png)
+
+
+
 
 ***
 
